@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-unit-testing",
+  "version": "0.0.1",
+  "description": "angularjs unit testing with jasmine and karma demo project",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "^0.12.14",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "angularjs-unit-testing",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-mocks": "~1.2.16",
+    "angular": "~1.2.16"
+  }
+}
